@@ -43,8 +43,8 @@ p, h3 {
     justify-content: center;
     padding: 5vw;
 }
-#wash
-#stay
+#wash,
+#stay,
 #work{
     display: flex;
     flex-direction: row-reverse;
